@@ -10,13 +10,12 @@ const port = 3000;
 const app = express();
 
 
-var mongodbbb = process.env.MONGO_URL;
+// var mongodbbb = process.env.MONGO_URL;
 
 
 
 
 // Connecting to Database
-
 
 const mongoDBUrl = "mongodb+srv://abhishek_bharti15:kGr1xBRfvEcZSeju@anshu.2axyfjn.mongodb.net/?retryWrites=true&w=majority&appName=anshu";
 
